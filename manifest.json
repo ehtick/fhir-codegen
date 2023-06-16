@@ -141,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/FhirCodeGenBlazor.Services.IServerConnectorService.html",
-          "hash": "8MGwpQztIOsBHaFIDrPmpIV+eairh3vGRRVDY1zNfpg="
+          "hash": "AB2cSEDBsNHYLpr5iprya70Vq1s/Oak2yh/hIcn2OM0="
         }
       },
       "is_incremental": false,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/FhirCodeGenBlazor.Services.ServerConnectorWebService.html",
-          "hash": "spMT4jl/BnpcEYa5iWPyRPSPT6J1EeEpB7o3x368XYM="
+          "hash": "r2bFmi9rRhjNqmmIgnPtfGFXaABuPVRh1hjtX5L9wKw="
         }
       },
       "is_incremental": false,
@@ -381,7 +381,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Health.Fhir.CodeGenCommon.Models..html",
-          "hash": "FbM1WKBoAV+rv8EENLGURkH+r2Uq4H7i91YW6zdTCyA="
+          "hash": "3jS5rpi6K6hnGp0diVdQsncLoAH8eX1pevVS6Di9X6E="
         }
       },
       "is_incremental": false,
@@ -521,6 +521,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Health.Fhir.CodeGenCommon.Models.FhirCapSecurityScheme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Health.Fhir.CodeGenCommon.Models.FhirCapSecurityScheme.html",
+          "hash": "4i/D/YwcO1yI7v8xHJymxgei7oXRsZmAy5LkQVZj8jg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Health.Fhir.CodeGenCommon.Models.FhirCapSmartOAuthScheme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Health.Fhir.CodeGenCommon.Models.FhirCapSmartOAuthScheme.html",
+          "hash": "XLpq7yE8gbO+90RSBazsC4hnmoMq7Mr0b4gph071/U0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Microsoft.Health.Fhir.CodeGenCommon.Models.FhirCapabiltyStatement.ExpectationCodes.yml",
       "output": {
         ".html": {
@@ -537,7 +561,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Health.Fhir.CodeGenCommon.Models.FhirCapabiltyStatement.SystemRestfulInteraction.html",
-          "hash": "6RBunDh87iHLJzxNYB0KAZiL/S0PWwMb/e40UXvdMcM="
+          "hash": "GcjejZ2kqIRGEE6LvuuuCtoVs+u7N8Vs5JNU2qxz2yI="
         }
       },
       "is_incremental": false,
@@ -561,7 +585,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Health.Fhir.CodeGenCommon.Models.FhirCapabiltyStatement.html",
-          "hash": "Jdz1OraEQvUVYXrgl3otqaYlDnPfC6+OpZUCxSOr6Xw="
+          "hash": "N0goT/O6pBUWKnlPd1jbk2AVrDLVFvX1JaKsGpRzNpc="
         }
       },
       "is_incremental": false,
@@ -1269,7 +1293,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Health.Fhir.CodeGenCommon.Models.html",
-          "hash": "PjBvplmFnnU+fAjS/go+GZcDMgIk8XxBl8julwrJLjE="
+          "hash": "I1bwZ4YGhOR099cxPkb9NYUUxvo3cMueW5wzliZ186Y="
         }
       },
       "is_incremental": false,
@@ -1293,7 +1317,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Health.Fhir.SpecManager.Converters.FromFhirExpando.html",
-          "hash": "EVMbLNXN9X8/IvK791bKEw6B5KZHLS8V7MBTCnFVIq4="
+          "hash": "A6S5WuC2/Yc+AruJ6lvkvHTQ6s3DwXPf2r3N1P8vrUw="
         }
       },
       "is_incremental": false,
@@ -1305,7 +1329,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Health.Fhir.SpecManager.Converters.FromR2.html",
-          "hash": "8RGGAR11sNWyKFR7RnoaABWwu0LOKIWlw/kY7dnUAPQ="
+          "hash": "cpu3Nf6gtDddru/sEKX17bvLcOriBFl9YpcRyWkKAD0="
         }
       },
       "is_incremental": false,
@@ -1317,7 +1341,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Health.Fhir.SpecManager.Converters.IFhirConverter.html",
-          "hash": "TMdFXH3qFp8iBiIDC2vEr/W4r03U3JP/FgnjpOiQ6wo="
+          "hash": "CPFBfCFsISmNZpC908hl3MwsagpWBXAKWL1J9GlurlI="
         }
       },
       "is_incremental": false,
@@ -1497,7 +1521,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Health.Fhir.SpecManager.Language.OpenApi.LangOpenApi.html",
-          "hash": "+mKwYCkFIE7JDHRCaKEtCmSWKp42NmuRouvtBjrXH+U="
+          "hash": "PVuuYVw9/S+/BZ0itvUs7vgT+glEZwked7M2380NlQM="
         }
       },
       "is_incremental": false,
@@ -1509,7 +1533,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Health.Fhir.SpecManager.Language.OpenApi.ModelBuilder.html",
-          "hash": "oAxnQ3ukoLzWqB0xxqzNt3l1MQ5n6MGaErNAzQPgjAA="
+          "hash": "cnwJSk92vqQ6LilM+QCOg1R/TA8Qgm7Zj2wwmCt8iYc="
         }
       },
       "is_incremental": false,
@@ -1857,7 +1881,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Health.Fhir.SpecManager.Manager.FhirManager.html",
-          "hash": "35YC4cMBizHiAwkXGfzs1110+pFPYlh1/nVRHtOjqnE="
+          "hash": "Lukb869j1g3XrHmrhGRCs3U54L7mIDhUpKoRHGTCEpE="
         }
       },
       "is_incremental": false,
@@ -1941,7 +1965,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Health.Fhir.SpecManager.Manager.FhirVersionInfo..html",
-          "hash": "y75mt6fuuEgxHpXSlML/iDjt12SIIjrO2F5E5QbZ/7M="
+          "hash": "fTnIo60kbm38o6nIN3XuyXihqfQZxUxmJXStAA0xLkw="
         }
       },
       "is_incremental": false,
@@ -1953,7 +1977,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Health.Fhir.SpecManager.Manager.FhirVersionInfo.html",
-          "hash": "47/HQT4PS7pnHWDKLY0ioLibS/46YiJXK/012rY0iCQ="
+          "hash": "7gdG1tjXSZnAoDcbxlQ0dcIi90O/ENL1A4EVpLef7GY="
         }
       },
       "is_incremental": false,
@@ -2001,7 +2025,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Health.Fhir.SpecManager.Manager.ServerConnector.html",
-          "hash": "tiXVG9f6+eKbmnffFuCYN7Ka+gIHOe9g0oJINToBVo0="
+          "hash": "4eauTrKGfDO9X5EIYIiKzovQTTUnab0hjPNH1gQUaWE="
         }
       },
       "is_incremental": false,
@@ -10128,7 +10152,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "7FrV6HkXmYELnIcTGWuA5PxRZ9vgOovdBO6zXr1Vn4s="
+          "hash": "joelxKbYyi2Yugc+YQNb4fUI4gSiybexP22vevsRggo="
         }
       },
       "is_incremental": false,
@@ -10263,7 +10287,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 842,
+          "total_file_count": 844,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
